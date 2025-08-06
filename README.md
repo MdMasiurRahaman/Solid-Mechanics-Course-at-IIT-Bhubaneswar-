@@ -135,65 +135,44 @@
 \end{itemize}
 
 ### Module 6: Bending (Week 10-11)
-\begin{itemize}
-    \item Bending of beams: Assumptions (plane sections remain plane, linear elastic behavior), types (pure bending, non-uniform bending), and applications (structural members, mechanical components).
-    \item Bending stress and strain: Calculation (normal stress and strain distribution) and significance (understanding of bending behavior).
-    \item Flexural rigidity: Definition (resistance to bending deformation) and calculation (flexural rigidity and bending stiffness).
-    \item Beam design: Selection of beam cross-sections (shape, size, and material) and materials (strength, stiffness, and durability).
-\end{itemize}
-\subsubsection{Definition:} Bending is the deformation of a solid object due to a load that causes it to curve.
-\subsubsection{Examples:}
-\begin{itemize}
-    \item Bending of beams:
-- Example: A bridge beam experiences bending due to traffic loads.
-\item Bending stress and strain:
-- Example: A beam under bending experiences normal stress and strain, which can be calculated using beam theory.
-\item Flexural rigidity:
-- Example: A beam's flexural rigidity affects its ability to resist bending deformation.
-\item Beam design:
-- Example: A beam's cross-sectional shape and material selection affect its bending strength and stiffness.
-\end{itemize}
+1. Bending of beams: Assumptions (plane sections remain plane, linear elastic behavior), types (pure bending, non-uniform bending), and applications (structural members, mechanical components).
+2. Bending stress and strain: Calculation (normal stress and strain distribution) and significance (understanding of bending behavior).
+3. Flexural rigidity: Definition (resistance to bending deformation) and calculation (flexural rigidity and bending stiffness).
+4. Beam design: Selection of beam cross-sections (shape, size, and material) and materials (strength, stiffness, and durability).
+   
+#### Definition: Bending is the deformation of a solid object due to a load that causes it to curve.
+#### Examples:
+1.Bending of beams Example: A bridge beam experiences bending due to traffic loads.
+2. Bending stress and strain Example: A beam under bending experiences normal stress and strain, which can be calculated using beam theory.
+3. Flexural rigidity Example: A beam's flexural rigidity affects its ability to resist bending deformation.
+4. Beam design Example: A beam's cross-sectional shape and material selection affect its bending strength and stiffness.
 
 ### Module 7: Deflection of Beams (Week 12-13)
-\begin{itemize}
-    \item Methods for calculating deflection: Double integration (mathematical method for calculating deflection), Macaulay's method (method for calculating deflection using singularity functions), and moment-area method (graphical method for calculating deflection).
-    \item Beam deflection under various loads: Point loads (concentrated loads), uniform distributed loads (loads distributed over a length), and moment loads (loads that cause bending).
-    \item Beam design for deflection: Limiting deflection (maximum allowable deflection) and stiffness requirements (minimum stiffness requirements).
-\end{itemize}
-\subsubsection{Definition:} Deflection is the displacement of a beam under a load.
-\subsubsection{Examples:}
-\begin{itemize}
-    \item Methods for calculating deflection:
-- Example: The double integration method can be used to calculate deflection of a beam under uniform load.
-\item Beam deflection under various loads:
-- Example: A beam under a point load will experience deflection, which can be calculated using beam theory.
-\item Beam design for deflection:
-- Example: A beam's deflection must be limited to ensure proper function and prevent damage.
-\end{itemize}
+1. Methods for calculating deflection: Double integration (mathematical method for calculating deflection), Macaulay's method (method for calculating deflection using singularity functions), and moment-area method (graphical method for calculating deflection).
+2. Beam deflection under various loads: Point loads (concentrated loads), uniform distributed loads (loads distributed over a length), and moment loads (loads that cause bending).
+3. Beam design for deflection: Limiting deflection (maximum allowable deflection) and stiffness requirements (minimum stiffness requirements).
+   
+#### Definition: Deflection is the displacement of a beam under a load.
+#### Examples:
+1. Methods for calculating deflection Example: The double integration method can be used to calculate deflection of a beam under uniform load.
+2. Beam deflection under various loads Example: A beam under a point load will experience deflection, which can be calculated using beam theory.
+3. Beam design for deflection Example: A beam's deflection must be limited to ensure proper function and prevent damage.
 
 ### Module 8: Energy Methods (Week 14-15)
-\begin{itemize}
-    \item Strain energy: Definition (energy stored in a deformed material), calculation (strain energy and strain energy density), and significance (understanding energy storage and release).
-    \item Virtual work: Principle of virtual work (mathematical principle for calculating deflection) and applications (calculating deflection, reaction forces, and internal forces).
-    \item Energy methods for solving structural problems: Castigliano's method (method for calculating deflection and reaction forces) and unit load method (Method for calculating deflection and reaction forces).
-    \item Applications: Deflection calculation, statically indeterminate structures, and buckling analysis.
-\end{itemize}
-\subsubsection{Definition:} Energy methods are used to analyze the behavior of solid objects under various types of loading.
-\subsubsection{Examples:}
-\begin{itemize}
-    \item Strain energy:
-- Example: A spring stores strain energy when compressed, which can be released to perform work.
-\item Virtual work:
-- Example: The principle of virtual work can be used to calculate the deflection of a beam under load.
-\item Energy methods for solving structural problems:
-- Example: Castigliano's method can be used to calculate the deflection of a beam under load.
-\item Applications:
-- Example: Energy methods can be used to analyze the behavior of complex structures, such as bridges or buildings.
-\end{itemize}
+1. Strain energy: Definition (energy stored in a deformed material), calculation (strain energy and strain energy density), and significance (understanding energy storage and release).
+2. Virtual work: Principle of virtual work (mathematical principle for calculating deflection) and applications (calculating deflection, reaction forces, and internal forces).
+3. Energy methods for solving structural problems: Castigliano's method (method for calculating deflection and reaction forces) and unit load method (Method for calculating deflection and reaction forces).
+4. Applications: Deflection calculation, statically indeterminate structures, and buckling analysis.
 
-## Text books:} 
+#### Definition: Energy methods are used to analyze the behavior of solid objects under various types of loading.
+#### Examples:
+1. Strain energy Example: A spring stores strain energy when compressed, which can be released to perform work.
+2. Virtual work Example: The principle of virtual work can be used to calculate the deflection of a beam under load.
+3. Energy methods for solving structural problems Example: Castigliano's method can be used to calculate the deflection of a beam under load.
+4. Applications Example: Energy methods can be used to analyze the behavior of complex structures, such as bridges or buildings.
+
+## Text books: 
 Here are some of the best textbooks on mechanics of solids for undergrad students:
-
 1. "Solid Mechanics for undergraduates using vectors and tensors" by Ajeet Kumar.
 2. "Mechanics of Materials" by James M. Gere and Barry J. Goodno
 3. "Mechanics of Solids and Structures" by J.L. Meriam, L.G. Kraige, and J.N. Bolton. 
@@ -206,6 +185,6 @@ Here are some of the best textbooks on mechanics of solids for undergrad student
 
 ## Reference books:
 This is a  restricted list of various interesting and useful books that will be touched during the course. You need to consult them occasionally.
-1.  Gurtin, M. E, (1982), \textit{An introduction to continuum mechanics}, Academic press.
-2. Haupt, P. (2002), \textit{Continuum mechanics and theory of materials}, Springer Science and Business Media.
+1.  Gurtin, M. E, (1982), "An introduction to continuum mechanics", Academic press.
+2. Haupt, P. (2002), "Continuum mechanics and theory of materials", Springer Science and Business Media.
 
