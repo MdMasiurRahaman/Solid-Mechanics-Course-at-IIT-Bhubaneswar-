@@ -31,11 +31,11 @@
 6. Tensor applications: Stress, strain, moment of inertia, and conductivity.
 
 #### Recommended Reading:
-1. ``Vectors And Tensors In Engineering And Physics" by Donald Danielson.
-2. ``A Student's Guide to Vectors and Tensors" by Daniel Fleisch
-3. ``Vector Mechanics for Engineers" by Ferdinand P. Beer and E. Russell Johnston Jr.
-4. ``Tensor Analysis" by J.R. Tyldesley
-5. ``Continuum Mechanics" by A.J.M. Spencer
+1. "Vectors And Tensors In Engineering And Physics" by Donald Danielson.
+2. "A Student's Guide to Vectors and Tensors" by Daniel Fleisch
+3. "Vector Mechanics for Engineers" by Ferdinand P. Beer and E. Russell Johnston Jr.
+4. "Tensor Analysis" by J.R. Tyldesley
+5. "Continuum Mechanics" by A.J.M. Spencer
 
 ### Module 2: Introduction to solid mechanics (Week 3)
 1. Overview of solid mechanics: Definition, importance, and applications.
@@ -43,96 +43,65 @@
 3. Types of loading: Static (constant or slowly varying loads), dynamic (time-varying loads, such as vibrations), impact (sudden application of loads), and fatigue load (repeated loading and unloading).
 4. Assumptions and limitations: Linear elasticity (linear stress-strain relationships), small deformations, and homogeneous materials (uniform material properties throughout).
 
-\subsubsection{Definition:}Solid mechanics is the study of the behavior of solid objects under various types of loading.
-\subsubsection{Importance:}Solid mechanics is essential for designing and analyzing structures, machines, and devices.
-\subsubsection{Applications:} Aerospace, civil, mechanical, and biomedical engineering. For example,\\ 
-(1) Designing a Bridge: Solid mechanics is used to analyze the stress and strain on the bridge's structure.\\
+#### Definition: Solid mechanics is the study of the behavior of solid objects under various types of loading.
+#### Importance: Solid mechanics is essential for designing and analyzing structures, machines, and devices.
+#### Applications: Aerospace, civil, mechanical, and biomedical engineering. For example,
+(1) Designing a Bridge: Solid mechanics is used to analyze the stress and strain on the bridge's structure.
 (2) Developing a new material: Solid mechanics is used to understand the properties and behavior of the material under different loads.
 
-\subsubsection{Examples:}
-\begin{itemize}
-\item Designing a bridge requires understanding the stress and strain on the materials used.
-\item Basic concepts:
-- Example: A steel rod under tension will experience stress and strain, which can be calculated using material properties.
-\item Types of loading:
-- Example: A car suspension system experiences dynamic loading due to road irregularities.
-\item Assumptions and limitations:
-- Example: Assuming linear elasticity for a material may not be accurate for large deformations.
-\end{itemize}
+#### Examples:
+1. Designing a bridge requires understanding the stress and strain on the materials used.
+2. Basic concepts Example: A steel rod under tension will experience stress and strain, which can be calculated using material properties.
+3. Types of loading Example: A car suspension system experiences dynamic loading due to road irregularities.
+4. Assumptions and limitations Example: Assuming linear elasticity for a material may not be accurate for large deformations.
 
 ### Module 3: Stress Analysis (Week 4-5)
-\begin{itemize}
-    \item Stress: Definition, types (normal (tensile or compressive), shear, principal), and units (Pascals (Pa) or pounds per square inch (psi)).
-    \item Stress-strain diagrams: Interpretation (elastic and plastic regions, yield point, ultimate strength) and significance (understanding material behavior and failure).
-    \item Hooke's Law: Linear elastic behavior (stress-strain relationship), Young's modulus (measure of material stiffness), and Poisson's ratio (measure of lateral strain). 
-    \item Stress transformation: Mohr's circle (graphical representation of stress states), principal stresses (maximum and minimum normal stresses), and maximum shear stress (critical for material failure).
-\end{itemize}
+1. Stress: Definition, types (normal (tensile or compressive), shear, principal), and units (Pascals (Pa) or pounds per square inch (psi)).
+2. Stress-strain diagrams: Interpretation (elastic and plastic regions, yield point, ultimate strength) and significance (understanding material behavior and failure).
+3. Hooke's Law: Linear elastic behavior (stress-strain relationship), Young's modulus (measure of material stiffness), and Poisson's ratio (measure of lateral strain). 
+4. Stress transformation: Mohr's circle (graphical representation of stress states), principal stresses (maximum and minimum normal stresses), and maximum shear stress (critical for material failure).
 
-\subsubsection{Definition:} Stress analysis is the study of the internal forces that are distributed within a solid object.
-\subsubsection{Types of stress:}
-\begin{itemize}
-    \item Tensile stress: Stress that causes an object to stretch.
-    \item Compressive stress: Stress that causes an object to compress.
-    \item Shear stress: Stress that causes an object to deform by sliding along a plane.
-\end{itemize}
+#### Definition: Stress analysis is the study of the internal forces that are distributed within a solid object.
+#### Types of stress:
+1. Tensile stress: Stress that causes an object to stretch.
+2. Compressive stress: Stress that causes an object to compress.
+3. Shear stress: Stress that causes an object to deform by sliding along a plane.
 
-\subsubsection{Examples:}
-\begin{itemize}
-    \item A pressure vessel experiences hoop stress due to internal pressure.
-    \item Stress-strain diagrams:
-- Example: A tensile test on a metal specimen produces a stress-strain diagram showing elastic and plastic regions.
-\item Hooke's Law:
-- Example: A spring's stiffness can be calculated using Hooke's Law, relating force and displacement.
-\item Stress transformation:
-- Example: A shaft under torsion experiences shear stress, which can be calculated using Mohr's circle.
-\end{itemize}
+#### Examples:
+1. A pressure vessel experiences hoop stress due to internal pressure.
+2. Stress-strain diagrams Example: A tensile test on a metal specimen produces a stress-strain diagram showing elastic and plastic regions.
+3. Hooke's Law Example: A spring's stiffness can be calculated using Hooke's Law, relating force and displacement.
+4. Stress transformation Example: A shaft under torsion experiences shear stress, which can be calculated using Mohr's circle.
 
 ### Module 4: Strain Analysis (Week 6-7)
-\begin{itemize}
-    \item Strain: Definition, types (linear (elongation or contraction), volumetric), and units (dimensionless).
-    \item Strain-displacement relationships: Geometric compatibility (relationship between strain and displacement) and strain-displacement equations.
-    \item Strain measurement: Experimental methods (strain gauges, extensometers, and digital image correlation) and techniques (measuring strain in various directions and locations).
-    \item Strain transformation: Principal strains (maximum and minimum normal strains) and strain rosettes (measuring strain in multiple directions).
-\end{itemize}
+1. Strain: Definition, types (linear (elongation or contraction), volumetric), and units (dimensionless).
+2. Strain-displacement relationships: Geometric compatibility (relationship between strain and displacement) and strain-displacement equations.
+3. Strain measurement: Experimental methods (strain gauges, extensometers, and digital image correlation) and techniques (measuring strain in various directions and locations).
+4. Strain transformation: Principal strains (maximum and minimum normal strains) and strain rosettes (measuring strain in multiple directions).
 
-\subsubsection{Definition:} Strain analysis is the study of the deformation of solid objects under various types of loading.
-\subsubsection{Types of strain:}
-\begin{itemize}
-    \item Linear strain: Strain that occurs in one dimension.
-    \item Volumetric strain: Strain that occurs in three dimensions.
-\end{itemize}
+#### Definition: Strain analysis is the study of the deformation of solid objects under various types of loading.
+#### Types of strain:
+1. Linear strain: Strain that occurs in one dimension.
+2. Volumetric strain: Strain that occurs in three dimensions.
 
-\subsubsection{Examples:}
-\begin{itemize}
-    \item A tensile test on a metal specimen measures strain using an extensometer.
-    \item Strain-displacement relationships:
-- Example: A beam under bending experiences strain and displacement, which can be related using geometric compatibility.
-\item Strain measurement:
-- Example: Strain gauges are used to measure strain on a structure or component.
-\item Strain transformation:
-- Example: A strain rosette measures strain in multiple directions, allowing calculation of principal strains.
-\end{itemize}
+#### Examples:
+1. A tensile test on a metal specimen measures strain using an extensometer.
+2. Strain-displacement relationships Example: A beam under bending experiences strain and displacement, which can be related using geometric compatibility.
+3. Strain measurement Example: Strain gauges are used to measure strain on a structure or component.
+4. Strain transformation Example: A strain rosette measures strain in multiple directions, allowing calculation of principal strains.
 
 ### Module 5: Torsion (Week 8-9)
-\begin{itemize}
-    \item Torsion of circular shafts: Assumptions (circular cross-section, linear elastic behavior), derivation of torsion formula (relationship between torque and twist), and applications (power transmission, mechanical systems).
-    \item Twist and angle of twist: Calculation (twist per unit length and total angle of twist) and significance (understanding torsional deformation).
-    \item Torsional stiffness: Definition (resistance to torsional deformation) and calculation (torsional stiffness and torsional rigidity).
-    \item Torsional stress and strain: Distribution (shear stress and strain distribution in circular shafts) and calculation (maximum shear stress and strain).
-\end{itemize}
+1. Torsion of circular shafts: Assumptions (circular cross-section, linear elastic behavior), derivation of torsion formula (relationship between torque and twist), and applications (power transmission, mechanical systems).
+2. Twist and angle of twist: Calculation (twist per unit length and total angle of twist) and significance (understanding torsional deformation).
+3. Torsional stiffness: Definition (resistance to torsional deformation) and calculation (torsional stiffness and torsional rigidity).
+4. Torsional stress and strain: Distribution (shear stress and strain distribution in circular shafts) and calculation (maximum shear stress and strain).
 
-\subsubsection{Definition:} Torsion is the twisting of a solid object due to a torque.
-\subsubsection{Examples:}
-\begin{itemize}
-    \item Torsion of circular shafts:
-- Example: A drive shaft in a vehicle experiences torsion due to the engine's torque.
-\item Twist and angle of twist:
-- Example: A long shaft may experience significant twist under torsion, affecting its performance.
-\item Torsional stiffness:
-- Example: A shaft's torsional stiffness affects its ability to transmit power without excessive deformation.
-\item Torsional stress and strain:
-- Example: A shaft under torsion experiences shear stress and strain, which can lead to failure if excessive.
-\end{itemize}
+#### Definition: Torsion is the twisting of a solid object due to a torque.
+#### Examples:
+1. Torsion of circular shafts Example: A drive shaft in a vehicle experiences torsion due to the engine's torque.
+2. Twist and angle of twist Example: A long shaft may experience significant twist under torsion, affecting its performance.
+3. Torsional stiffness Example: A shaft's torsional stiffness affects its ability to transmit power without excessive deformation.
+4. Torsional stress and strain Example: A shaft under torsion experiences shear stress and strain, which can lead to failure if excessive.
 
 ### Module 6: Bending (Week 10-11)
 1. Bending of beams: Assumptions (plane sections remain plane, linear elastic behavior), types (pure bending, non-uniform bending), and applications (structural members, mechanical components).
