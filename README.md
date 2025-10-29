@@ -97,21 +97,7 @@ The strain tensor has numerous applications in materials science and engineering
 3. Strain measurement Example: Strain gauges are used to measure strain on a structure or component.
 4. Strain transformation Example: A strain rosette measures strain in multiple directions, allowing calculation of principal strains.
 
-### Module 5: Torsion (Week 8-9)
-1. Torsion of circular shafts: Assumptions (circular cross-section, linear elastic behavior), derivation of torsion formula (relationship between torque and twist), and applications (power transmission, mechanical systems).
-2. Twist and angle of twist: Calculation (twist per unit length and total angle of twist) and significance (understanding torsional deformation).
-3. Torsional stiffness: Definition (resistance to torsional deformation) and calculation (torsional stiffness and torsional rigidity).
-4. Torsional stress and strain: Distribution (shear stress and strain distribution in circular shafts) and calculation (maximum shear stress and strain).
-
-#### Definition: 
-Torsion is the twisting of a solid object due to a torque.
-#### Examples:
-1. Torsion of circular shafts Example: A drive shaft in a vehicle experiences torsion due to the engine's torque.
-2. Twist and angle of twist Example: A long shaft may experience significant twist under torsion, affecting its performance.
-3. Torsional stiffness Example: A shaft's torsional stiffness affects its ability to transmit power without excessive deformation.
-4. Torsional stress and strain Example: A shaft under torsion experiences shear stress and strain, which can lead to failure if excessive.
-
-### Module 6: Bending (Week 10-11)
+### Module 5: Bending (Week 8-9)
 1. Bending of beams: Assumptions (plane sections remain plane, linear elastic behavior), types (pure bending, non-uniform bending), and applications (structural members, mechanical components).
 2. Bending stress and strain: Calculation (normal stress and strain distribution) and significance (understanding of bending behavior).
 3. Flexural rigidity: Definition (resistance to bending deformation) and calculation (flexural rigidity and bending stiffness).
@@ -124,6 +110,20 @@ Bending is the deformation of a solid object due to a load that causes it to cur
 2. Bending stress and strain Example: A beam under bending experiences normal stress and strain, which can be calculated using beam theory.
 3. Flexural rigidity Example: A beam's flexural rigidity affects its ability to resist bending deformation.
 4. Beam design Example: A beam's cross-sectional shape and material selection affect its bending strength and stiffness.
+
+### Module 6: Torsion (Week 10-11)
+1. Torsion of circular shafts: Assumptions (circular cross-section, linear elastic behavior), derivation of torsion formula (relationship between torque and twist), and applications (power transmission, mechanical systems).
+2. Twist and angle of twist: Calculation (twist per unit length and total angle of twist) and significance (understanding torsional deformation).
+3. Torsional stiffness: Definition (resistance to torsional deformation) and calculation (torsional stiffness and torsional rigidity).
+4. Torsional stress and strain: Distribution (shear stress and strain distribution in circular shafts) and calculation (maximum shear stress and strain).
+
+#### Definition: 
+Torsion is the twisting of a solid object due to a torque.
+#### Examples:
+1. Torsion of circular shafts Example: A drive shaft in a vehicle experiences torsion due to the engine's torque.
+2. Twist and angle of twist Example: A long shaft may experience significant twist under torsion, affecting its performance.
+3. Torsional stiffness Example: A shaft's torsional stiffness affects its ability to transmit power without excessive deformation.
+4. Torsional stress and strain Example: A shaft under torsion experiences shear stress and strain, which can lead to failure if excessive.
 
 ### Module 7: Deflection of Beams (Week 12-13)
 1. Methods for calculating deflection: Double integration (mathematical method for calculating deflection), Macaulay's method (method for calculating deflection using singularity functions), and moment-area method (graphical method for calculating deflection).
